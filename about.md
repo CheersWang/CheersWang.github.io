@@ -7,10 +7,16 @@ description: This page describes myself and this blog.
 Chenyang Wang (王晨阳)
 
 - **Education**: Undergraduate @Tsinghua University
+
 - **Major**: Computer Science and Technology
+
 - **Minor**: Academy of Arts and Design
+
 - **Interests**: Recommendation System, Deep Neural Network, Artificial Intelligience
+
 - **Email**: `THUwangcy@gmail.com`
+
+  
 
 ## Blog
 
