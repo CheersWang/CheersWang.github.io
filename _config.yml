@@ -1,14 +1,14 @@
 # Site settings
 title: Chenyang Wang's Blog
 description: "Try everything, write anything."
-url: "https://thuwangcy.github.io"
+url: "https://cheerswang.github.io"
 author:
   name: "Chenyang Wang"
   email: "thuwangcy@gmail.com"
-  url: "https://thuwangcy.github.io"
+  url: "https://cheerswang.github.io"
 
 # Build settings
-url: "https://thuwangcy.github.io"
+url: "https://cheerswang.github.io"
 baseurl: 
 markdown: kramdown
 source: .
