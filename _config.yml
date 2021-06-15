@@ -1,0 +1,45 @@
+# Site settings
+title: Chenyang Wang's Blog
+description: "Try everything, write anything."
+url: "https://thuwangcy.github.io"
+author:
+  name: "Chenyang Wang"
+  email: "thuwangcy@gmail.com"
+  url: "https://thuwangcy.github.io"
+
+# Build settings
+url: "https://thuwangcy.github.io"
+baseurl: 
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+leancloud:
+  enable: true
+  app_id: a7bTOQ5loeIl2rs7AINQHmIF-gzGzoHsz
+  app_key: IgdEvbu6cnslDdC5MNpYK2ni
